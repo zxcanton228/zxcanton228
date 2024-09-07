@@ -4,8 +4,8 @@
 
 <p align="center">🌍 Russian, Moscow <br></p>
 <p align="center">📫 Связаться со мной можно:<br>
-<a href="https://t.me/antonvegele"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
-<a href="mailto:kirillvegele10@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/></a><br>
+<a href="https://t.me/kirshensuu"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+<a href="mailto:kirove.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/></a><br>
 </p>
 <h2 align="center">Backend</h2>
 <p align="center">
