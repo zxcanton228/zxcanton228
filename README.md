@@ -7,6 +7,7 @@
 <a href="https://t.me/kirshensuu"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 <a href="mailto:kirove.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/></a><br>
 </p>
+[![zxcanton228 LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zxcanton228&theme=dark)](https://github.com/zxcanton228/leetcode-stats)
 <h2 align="center">Backend</h2>
 <p align="center">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
