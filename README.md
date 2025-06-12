@@ -11,7 +11,6 @@
 [![zxcanton228's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=zxcanton228&theme=dark)](https://github.com/zxcanton228/leetcode-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcanton228&layout=compact)](https://github.com/zxcanton228/github-readme-stats) 
-![zxcanton228 Profile](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zxcanton228&theme=dark)
 
 
 <h2 align="center">Backend</h2>
